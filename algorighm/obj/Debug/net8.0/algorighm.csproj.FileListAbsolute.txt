@@ -1,0 +1,14 @@
+C:\Project\algorighm\algorighm\bin\Debug\net8.0\algorighm.exe
+C:\Project\algorighm\algorighm\bin\Debug\net8.0\algorighm.deps.json
+C:\Project\algorighm\algorighm\bin\Debug\net8.0\algorighm.runtimeconfig.json
+C:\Project\algorighm\algorighm\bin\Debug\net8.0\algorighm.dll
+C:\Project\algorighm\algorighm\bin\Debug\net8.0\algorighm.pdb
+C:\Project\algorighm\algorighm\obj\Debug\net8.0\algorighm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\algorighm\algorighm\obj\Debug\net8.0\algorighm.AssemblyInfoInputs.cache
+C:\Project\algorighm\algorighm\obj\Debug\net8.0\algorighm.AssemblyInfo.cs
+C:\Project\algorighm\algorighm\obj\Debug\net8.0\algorighm.csproj.CoreCompileInputs.cache
+C:\Project\algorighm\algorighm\obj\Debug\net8.0\algorighm.dll
+C:\Project\algorighm\algorighm\obj\Debug\net8.0\refint\algorighm.dll
+C:\Project\algorighm\algorighm\obj\Debug\net8.0\algorighm.pdb
+C:\Project\algorighm\algorighm\obj\Debug\net8.0\algorighm.genruntimeconfig.cache
+C:\Project\algorighm\algorighm\obj\Debug\net8.0\ref\algorighm.dll
